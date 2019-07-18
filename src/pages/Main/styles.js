@@ -27,6 +27,7 @@ export const Form = styled.form`
   }
 
   button {
+    width: 80px;
     padding: 0 20px;
     margin-left: 10px;
     height: 55px;
