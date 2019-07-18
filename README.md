@@ -3,6 +3,10 @@ Para rodar o frontend.
 
 Entrar na pasta raiz e rodar o comando yarn ou npm install, para instalar as dependências.
 
+Modo de usar:
+
+Informar no input> usuario/repositorio
+
 
 Na raiz rodar o comando yarn start ou npm run start.
 
